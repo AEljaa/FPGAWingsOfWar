@@ -1,0 +1,794 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              obj/default/dogtest.o (__mulsi3)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+                              obj/default/dogtest.o (__muldf3)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+                              obj/default/dogtest.o (__fixdfsi)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+                              obj/default/dogtest.o (__extendsfdf2)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+                              c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o) (__clzsi2)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+                              c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o) (__clz_tab)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+                              obj/default/dogtest.o (alt_irq_register)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o) (alt_irq_active)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+                              ../dog_sw_test_bsp//obj/HAL/src/crt0.o (alt_load)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+                              ../dog_sw_test_bsp//obj/HAL/src/crt0.o (alt_main)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+                              obj/default/dogtest.o (alt_up_accelerometer_spi_open_dev)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o) (alt_errno)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o) (alt_find_dev)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o) (alt_irq_entry)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o) (alt_irq_handler)
+../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o) (errno)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o) (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+errno               0x4               c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+led                 0x1               obj/default/dogtest.o
+filter_coefficients
+                    0x70              obj/default/dogtest.o
+level               0x4               obj/default/dogtest.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000010000 0x0000000000000020
+onchip_memory    0x0000000000010020 0x000000000000ffe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/dogtest.o
+LOAD c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a
+LOAD ../dog_sw_test_bsp/\libhal_bsp.a
+LOAD c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+END GROUP
+LOAD c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a
+                0x0000000000010000                __alt_mem_onchip_memory = 0x10000
+
+.entry          0x0000000000010000       0x20
+ *(.entry)
+ .entry         0x0000000000010000       0x20 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+                0x0000000000010000                __reset
+                0x000000000001000c                _exit
+
+.exceptions     0x0000000000010020      0x160
+                0x0000000000010020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x0000000000010020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000000010020        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000010020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000000010020        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000010020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000000010020       0x54 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000000010074       0x10 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000000010084        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000000010088        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000001008c        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000001008c        0x8 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000000010094       0x14 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000000000100a8        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000000000100a8        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00000000000100a8       0x54 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000000100fc       0x60 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000100fc                alt_irq_handler
+ .exceptions    0x000000000001015c       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000000000001015c                alt_instruction_exception_entry
+                0x0000000000010180                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x0000000000010020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x0000000000010180     0x1260
+                [!provide]                        PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000010180       0x3c ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+                0x0000000000010180                _start
+ .text          0x00000000000101bc      0x264 obj/default/dogtest.o
+                0x00000000000101bc                sys_timer_isr
+                0x000000000001023c                led_write
+                0x0000000000010250                convert_read
+                0x0000000000010284                timer_init
+                0x00000000000102f4                floatArrayToFixed
+                0x0000000000010378                filterFIR
+ .text.startup  0x0000000000010420       0x50 obj/default/dogtest.o
+                0x0000000000010420                main
+ .text          0x0000000000010470       0x28 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000000000010470                __mulsi3
+ .text          0x0000000000010498      0x86c c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+                0x0000000000010498                __muldf3
+ .text          0x0000000000010d04       0x80 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+                0x0000000000010d04                __fixdfsi
+ .text          0x0000000000010d84      0x110 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+                0x0000000000010d84                __extendsfdf2
+ .text          0x0000000000010e94       0x64 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+                0x0000000000010e94                __clzsi2
+ .text          0x0000000000010ef8        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .text          0x0000000000010ef8       0x94 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+                0x0000000000010ef8                alt_irq_register
+ .text          0x0000000000010f8c        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x0000000000010f8c       0xe0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+                0x0000000000010f8c                alt_load
+ .text          0x000000000001106c       0x2c ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+                0x000000000001106c                alt_main
+ .text          0x0000000000011098       0x30 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000011098                alt_irq_init
+                0x00000000000110b8                alt_sys_init
+ .text          0x00000000000110c8      0x160 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+                0x00000000000110c8                alt_up_accelerometer_spi_open_dev
+                0x00000000000110d0                alt_up_accelerometer_spi_read_address_register
+                0x00000000000110e4                alt_up_accelerometer_spi_read
+                0x0000000000011104                alt_up_accelerometer_spi_write
+                0x0000000000011120                alt_up_accelerometer_spi_read_x_axis
+                0x0000000000011178                alt_up_accelerometer_spi_read_y_axis
+                0x00000000000111d0                alt_up_accelerometer_spi_read_z_axis
+ .text          0x0000000000011228        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000011228                alt_dcache_flush_all
+ .text          0x000000000001122c        0x8 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x0000000000011234       0x6c ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000000000011234                alt_dev_llist_insert
+ .text          0x00000000000112a0        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x00000000000112a0       0x74 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x00000000000112a0                alt_find_dev
+ .text          0x0000000000011314        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000011314                alt_icache_flush_all
+ .text          0x0000000000011318        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x0000000000011318        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x0000000000011318        0x8 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000011318                altera_nios2_gen2_irq_init
+ .text          0x0000000000011320        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000000000011320       0x74 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000000011320                alt_exception_cause_generated_bad_addr
+ .text          0x0000000000011394        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x0000000000011394        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000000011394       0x30 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x0000000000011394                memcmp
+ .text          0x00000000000113c4        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x00000000000113c4       0x1c c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x00000000000113c4                strlen
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext, ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext, ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x00000000000113e0                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end, ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x00000000000113e0                . = ALIGN (0x4)
+
+.rodata         0x00000000000113e0      0x130
+                0x00000000000113e0                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x00000000000113e0                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x00000000000113e0       0x24 obj/default/dogtest.o
+ .rodata        0x0000000000011404      0x100 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+                0x0000000000011404                __clz_tab
+ .rodata.str1.4
+                0x0000000000011504       0x17 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata.str1.4
+                0x0000000000011504        0xc ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+                                          0xa (size before relaxing)
+ *(.rodata1)
+                0x000000000001151c                . = ALIGN (0x4)
+                0x000000000001151c                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x00000000000113e0                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x0000000000011510      0x114 load address 0x0000000000011624
+                0x0000000000011510                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x0000000000011510                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000011510        0x0 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+ .data          0x0000000000011510       0x70 obj/default/dogtest.o
+                0x0000000000011510                filter_coefficientsf
+ .data          0x0000000000011580        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000000000011580        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .data          0x0000000000011580        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .data          0x0000000000011580        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .data          0x0000000000011580        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .data          0x0000000000011580        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .data          0x0000000000011580        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .data          0x0000000000011580        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000000000011580        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x0000000000011580        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000011580       0x2c ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x00000000000115ac        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .data          0x00000000000115ac        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x00000000000115ac       0x58 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+                0x00000000000115ac                alt_fd_list
+                0x00000000000115dc                alt_dev_null
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x0000000000011604        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x0000000000011604        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000000000011604        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .data          0x0000000000011604        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x0000000000019604                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000000011604        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000011604                alt_priority_mask
+ .sdata         0x0000000000011608        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000011608                jtag_uart
+ .sdata         0x000000000001160c       0x14 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+                0x000000000001160c                alt_max_fd
+                0x0000000000011610                alt_dev_list
+                0x0000000000011618                alt_fs_list
+ .sdata         0x0000000000011620        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000000000011620                alt_errno
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000000011624                . = ALIGN (0x4)
+                0x0000000000011624                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata, ABSOLUTE (.))
+                0x0000000000011624                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x0000000000011624                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x0000000000011738      0x204
+                0x0000000000011738                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start, ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000000011738        0x1 obj/default/dogtest.o
+                0x0000000000011738                pwm
+ *fill*         0x0000000000011739        0x3 
+ .sbss          0x000000000001173c        0x8 obj/default/dogtest.o
+                0x000000000001173c                led
+                0x0000000000011740                level
+ .sbss          0x0000000000011744        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000011744                alt_irq_active
+ .sbss          0x0000000000011748        0xc ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000000000011748                alt_envp
+                0x000000000001174c                alt_argv
+                0x0000000000011750                alt_argc
+ .sbss          0x0000000000011754        0x4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000000011754                alt_instruction_exception_handler
+ .sbss          0x0000000000011758        0x4 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x0000000000011758                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end, ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000001175c        0x0 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+ .bss           0x000000000001175c       0x70 obj/default/dogtest.o
+                0x000000000001175c                filter_state
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x00000000000117cc        0x0 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .bss           0x00000000000117cc        0x0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ *(COMMON)
+ COMMON         0x00000000000117cc       0x70 obj/default/dogtest.o
+                0x00000000000117cc                filter_coefficients
+ COMMON         0x000000000001183c      0x100 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x000000000001183c                alt_irq
+                0x000000000001193c                . = ALIGN (0x4)
+                0x000000000001193c                __bss_end = ABSOLUTE (.)
+
+.onchip_memory  0x000000000001193c        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory_start, ABSOLUTE (.))
+ *(.onchip_memory .onchip_memory. onchip_memory.*)
+                0x000000000001193c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory_end, ABSOLUTE (.))
+                0x000000000001193c                _end = ABSOLUTE (.)
+                0x000000000001193c                end = ABSOLUTE (.)
+                0x000000000001193c                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory_load_addr, LOADADDR (.onchip_memory))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x23
+ *(.comment)
+ .comment       0x0000000000000000       0x23 obj/default/dogtest.o
+                                         0x24 (size before relaxing)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x0000000000000023       0x24 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000023       0x24 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x3a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x28 obj/default/dogtest.o
+ .debug_aranges
+                0x0000000000000050       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x0000000000000070       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .debug_aranges
+                0x0000000000000090       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x00000000000000b0       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .debug_aranges
+                0x00000000000000d0       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000000000000f0       0x18 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_aranges
+                0x0000000000000108       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_aranges
+                0x0000000000000128       0x18 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x0000000000000140       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000160       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000180       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x0000000000000200       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x0000000000000220       0x18 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x0000000000000238       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x0000000000000258       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x0000000000000278       0x30 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x00000000000002a8       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x00000000000002c8       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x00000000000002e8       0x38 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x0000000000000320       0x28 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_aranges
+                0x0000000000000348       0x18 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x0000000000000360       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000380       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x35d8
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x6d ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x000000000000006d      0x666 obj/default/dogtest.o
+ .debug_info    0x00000000000006d3       0xb4 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x0000000000000787      0x5f1 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .debug_info    0x0000000000000d78      0x1ae c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .debug_info    0x0000000000000f26      0x248 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .debug_info    0x000000000000116e      0x124 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_info    0x0000000000001292       0xb2 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_info    0x0000000000001344      0x30d ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_info    0x0000000000001651       0x88 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x00000000000016d9      0x1c9 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x00000000000018a2      0x18f ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000000000001a31      0x459 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000001e8a      0x479 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_info    0x0000000000002303       0x92 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000002395      0x499 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x000000000000282e      0x1b3 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00000000000029e1       0xa6 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000002a87      0x32d ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x0000000000002db4       0x92 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000000000002e46       0x76 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000002ebc      0x1a4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x0000000000003060       0xb8 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x0000000000003118       0x7c ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000003194      0x1fd ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x0000000000003391       0x8a c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x000000000000341b       0xf4 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_info    0x000000000000350f       0xc9 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+
+.debug_abbrev   0x0000000000000000     0x1609
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012      0x28e obj/default/dogtest.o
+ .debug_abbrev  0x00000000000002a0       0x6f c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x000000000000030f      0x13f c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .debug_abbrev  0x000000000000044e      0x135 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x0000000000000583      0x124 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .debug_abbrev  0x00000000000006a7       0xbe c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000000000000765       0x5d c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_abbrev  0x00000000000007c2      0x1a5 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_abbrev  0x0000000000000967       0x40 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x00000000000009a7       0xd8 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000000a7f       0xf5 ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000000b74      0x1a5 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000000000000d19      0x119 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_abbrev  0x0000000000000e32       0x42 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000000e74       0xd9 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x0000000000000f4d      0x11c ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x0000000000001069       0x5a ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000000000010c3      0x125 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x00000000000011e8       0x42 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x000000000000122a       0x12 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x000000000000123c      0x138 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x0000000000001374       0x67 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00000000000013db       0x12 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00000000000013ed       0xe7 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x00000000000014d4       0x37 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x000000000000150b       0x7f c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000158a       0x7f c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+
+.debug_line     0x0000000000000000     0x1677
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x66 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066      0x1b3 obj/default/dogtest.o
+ .debug_line    0x0000000000000219       0x80 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x0000000000000299      0x1ea c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .debug_line    0x0000000000000483       0x9b c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .debug_line    0x000000000000051e       0xc4 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .debug_line    0x00000000000005e2       0xbd c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_line    0x000000000000069f       0x56 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_line    0x00000000000006f5       0xed ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_line    0x00000000000007e2       0x50 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x0000000000000832       0xa4 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x00000000000008d6       0xea ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x00000000000009c0      0x178 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000000000000b38      0x131 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_line    0x0000000000000c69       0x4e ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000000cb7       0xf6 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000000000000dad       0xd8 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x0000000000000e85       0x51 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000000ed6      0x107 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000000000000fdd       0x4e ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x000000000000102b       0x6b ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x0000000000001096       0xc8 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x000000000000115e       0x8c ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x00000000000011ea       0xb3 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x000000000000129d       0xbf ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x000000000000135c       0x5f c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x00000000000013bb      0x160 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_line    0x000000000000151b      0x15c c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+
+.debug_frame    0x0000000000000000      0x490
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0xdc obj/default/dogtest.o
+ .debug_frame   0x00000000000000dc       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x00000000000000fc       0x58 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .debug_frame   0x0000000000000154       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .debug_frame   0x0000000000000174       0x38 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .debug_frame   0x00000000000001ac       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000000000001cc       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_frame   0x00000000000001ec       0x30 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x000000000000021c       0x2c ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000248       0x3c ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000284       0x80 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_frame   0x0000000000000304       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000324       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x0000000000000344       0x2c ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x0000000000000370       0x3c ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000000000003ac       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000000000003cc       0x34 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000000000000400       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000000420       0x30 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x0000000000000450       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000470       0x20 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+
+.debug_str      0x0000000000000000     0x1554
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x301 obj/default/dogtest.o
+                                        0x367 (size before relaxing)
+ .debug_str     0x0000000000000301      0x148 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                        0x193 (size before relaxing)
+ .debug_str     0x0000000000000449      0x238 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+                                        0x3c2 (size before relaxing)
+ .debug_str     0x0000000000000681       0x4e c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+                                        0x22b (size before relaxing)
+ .debug_str     0x00000000000006cf       0x7d c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+                                        0x24f (size before relaxing)
+ .debug_str     0x000000000000074c       0x66 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+                                        0x200 (size before relaxing)
+ .debug_str     0x00000000000007b2      0x1e3 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_str     0x00000000000007b2       0xd6 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+                                        0x207 (size before relaxing)
+ .debug_str     0x0000000000000888       0x17 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                                        0x139 (size before relaxing)
+ .debug_str     0x000000000000089f      0x113 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+                                        0x23b (size before relaxing)
+ .debug_str     0x00000000000009b2       0x5e ../dog_sw_test_bsp/\libhal_bsp.a(alt_main.o)
+                                        0x1dd (size before relaxing)
+ .debug_str     0x0000000000000a10      0x109 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x349 (size before relaxing)
+ .debug_str     0x0000000000000b19      0x128 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+                                        0x34d (size before relaxing)
+ .debug_str     0x0000000000000c41       0x1f ../dog_sw_test_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x154 (size before relaxing)
+ .debug_str     0x0000000000000c60      0x125 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev.o)
+                                        0x304 (size before relaxing)
+ .debug_str     0x0000000000000d85       0x48 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x1cb (size before relaxing)
+ .debug_str     0x0000000000000dcd       0x14 ../dog_sw_test_bsp/\libhal_bsp.a(alt_errno.o)
+                                        0x144 (size before relaxing)
+ .debug_str     0x0000000000000de1       0x25 ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                        0x1f9 (size before relaxing)
+ .debug_str     0x0000000000000e06       0x1f ../dog_sw_test_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x154 (size before relaxing)
+ .debug_str     0x0000000000000e25       0x3a ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                                        0x1b7 (size before relaxing)
+ .debug_str     0x0000000000000e5f       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x184 (size before relaxing)
+ .debug_str     0x0000000000000e7f      0x48b ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x59f (size before relaxing)
+ .debug_str     0x000000000000130a      0x134 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                        0x1d8 (size before relaxing)
+ .debug_str     0x000000000000143e       0xd9 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                                        0x1df (size before relaxing)
+ .debug_str     0x0000000000001517       0x3d c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                        0x1e5 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x1b45
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x231 obj/default/dogtest.o
+ .debug_loc     0x0000000000000231       0x93 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x00000000000002c4     0x1085 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .debug_loc     0x0000000000001349      0x121 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .debug_loc     0x000000000000146a      0x26d c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .debug_loc     0x00000000000016d7       0x6b c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_loc     0x0000000000001742       0xfa ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_register.o)
+ .debug_loc     0x000000000000183c       0x21 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x000000000000185d       0x63 ../dog_sw_test_bsp/\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_loc     0x00000000000018c0       0x7e ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x000000000000193e       0x7e ../dog_sw_test_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_loc     0x00000000000019bc       0x72 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_loc     0x0000000000001a2e       0x65 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_loc     0x0000000000001a93       0x94 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000001b27       0x1e c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+                0x0000000000020000                __alt_data_end = 0x20000
+                0x0000000000020000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit, __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start, end)
+                [!provide]                        PROVIDE (__alt_heap_limit, 0x20000)
+OUTPUT(dog_sw_test.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000      0x3d0
+ .debug_ranges  0x0000000000000000       0x20 ../dog_sw_test_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x30 obj/default/dogtest.o
+ .debug_ranges  0x0000000000000050      0x1d0 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(muldf3.o)
+ .debug_ranges  0x0000000000000220       0x30 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(fixdfsi.o)
+ .debug_ranges  0x0000000000000250       0x48 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(extendsfdf2.o)
+ .debug_ranges  0x0000000000000298       0x18 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_ranges  0x00000000000002b0       0x48 ../dog_sw_test_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_ranges  0x00000000000002f8       0x18 ../dog_sw_test_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_ranges  0x0000000000000310       0x20 ../dog_sw_test_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_ranges  0x0000000000000330       0x28 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x0000000000000358       0x10 ../dog_sw_test_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x0000000000000368       0x30 ../dog_sw_test_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x0000000000000398       0x18 ../dog_sw_test_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_ranges  0x00000000000003b0       0x10 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .debug_ranges  0x00000000000003c0       0x10 c:/intelfpga_lite/18.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
