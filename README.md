@@ -35,3 +35,17 @@ Directory    | Use
 Below you can see a video of the project. 
 ___
 [![FPGAWingsOfWar Video](https://img.youtube.com/vi/p6NtJfPnt88/0.jpg)](https://youtu.be/p6NtJfPnt88)
+
+
+___
+## Contributors
+
+Name    | Email | Github User
+:-----------:|:-----------:|---------------:|
+Sandro  | sandro.enukidze22@imperial.ac.uk  | [`Sandro Enukidze`](https://github.com/Sandro-Enukidze-IC)
+Varun  | varun.chaganty22@imperial.ac.uk | [`Varun Chaganty`](https://github.com/NightRaven3142)
+Joshua  | sandro.enukidze22@imperial.ac.uk  | [`Joshua Ewusie-Nelson `](https://github.com/E-N-J)
+Zequan  | sandro.enukidze22@imperial.ac.uk  | [`Zequan Li`](https://github.com/Cecilialzq)
+Adam  | sandro.enukidze22@imperial.ac.uk  | [`Adam El Jaafari`](https://github.com/AEljaa)
+Deniz  | sandro.enukidze22@imperial.ac.uk  | [`Deniz Goy`](https://github.com/DenizzG)
+
