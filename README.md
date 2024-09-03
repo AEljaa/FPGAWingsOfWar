@@ -10,6 +10,7 @@ Infomation Processing Project for Imperial EEE/EIE 2023/24
 
 </center>
 
+Please see our project write up for details behind the engineering behind the *FPGAWingsOfWar* [`Information Processing Group 11 Report.pdf`](./Information%20Processing%20Group%2011%20Report.pdf)
 ## Contribution Table
 
 **Key:** o = Main Contributor; v = Co-Author
@@ -44,8 +45,8 @@ Name    | Email | Github User
 :-----------:|:-----------:|---------------:|
 Sandro  | sandro.enukidze22@imperial.ac.uk  | [`Sandro Enukidze`](https://github.com/Sandro-Enukidze-IC)
 Varun  | varun.chaganty22@imperial.ac.uk | [`Varun Chaganty`](https://github.com/NightRaven3142)
-Joshua  | sandro.enukidze22@imperial.ac.uk  | [`Joshua Ewusie-Nelson `](https://github.com/E-N-J)
-Zequan  | sandro.enukidze22@imperial.ac.uk  | [`Zequan Li`](https://github.com/Cecilialzq)
-Adam  | sandro.enukidze22@imperial.ac.uk  | [`Adam El Jaafari`](https://github.com/AEljaa)
-Deniz  | sandro.enukidze22@imperial.ac.uk  | [`Deniz Goy`](https://github.com/DenizzG)
+Joshua  | joshua.ewusie-nelson22@imperial.ac.uk  | [`Joshua Ewusie-Nelson `](https://github.com/E-N-J)
+Zequan  | zequan.li22@imperial.ac.uk  | [`Zequan Li`](https://github.com/Cecilialzq)
+Adam  | adam.eljaafari22@imperial.ac.uk  | [`Adam El Jaafari`](https://github.com/AEljaa)
+Deniz  | deniz.goy22@imperial.ac.uk  | [`Deniz Goy`](https://github.com/DenizzG)
 
