@@ -1,0 +1,34 @@
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+
+<p>Hello, this is Imperial College's website</p>
+
+<p><a href="https://www.ic.ac.uk">Imperial College</a></p>
+
+<p>I have clicked the button this many times:</p>
+
+</p><div id="count">0</div></p>
+
+</p><button type="button" onclick="updateCount()">Click Me!</button> </p>
+
+<p>name: <input type="text" id="name" width="30" value="xiaoli"></input></p>
+<script>
+    // record click time
+    var clickCount = 0;
+
+    function updateCount() {
+        // record 1 click
+        clickCount++;
+        document.getElementById("count").innerHTML = clickCount;
+        // send the latest data to server => /update_count
+        updateServerCount();
+    }
+
+    function updateServerCount() {
+        var name = document.getElementById("name").value;
+        fetch("/update_count?name="+ name +"&score=" + clickCount)
+         .then((response) => response.json())
+         .then((data) => console.log(data));
+    }
+
+</script> 
