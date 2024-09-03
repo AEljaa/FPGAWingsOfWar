@@ -11,7 +11,7 @@ Infomation Processing Project for Imperial EEE/EIE 2023/24
 
 </center>
 
-Please see our project write up for details behind the engineering behind the *FPGAWingsOfWar* [`Information Processing Group 11 Report.pdf`](./Information%20Processing%20Group%2011%20Report.pdf)
+Please see our project write up for details behind the engineering behind the **FPGAWingsOfWar** [`Information Processing Group 11 Report.pdf`](./Information%20Processing%20Group%2011%20Report.pdf)
 ## Contribution Table
 
 **Key:** o = Main Contributor; v = Co-Author
