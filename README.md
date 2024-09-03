@@ -1,7 +1,7 @@
 <center>
 
 # FPGAWingsOfWar
-Infomation Processing Project for Imperial EEE/EIE 2023/24
+Infomation Processing Project for Imperial EIE 2023/24
 
 ---
 
